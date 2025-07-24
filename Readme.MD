@@ -14,3 +14,15 @@ How to use if, elif, and else for branching logic
 How to call a function with a parameter
 
 How to give useful feedback when the input is invalid
+
+######################################################################
+
+n this lesson, I learned how to use if not to validate user input early in the program. By checking whether the input is not one of the expected values, I can give feedback and exit the function early using return. This helps avoid deeply nested conditions and keeps the main logic cleaner.
+
+I also reinforced how to:
+
+Use or inside if not (...) for validation
+
+Simplify logic by removing unnecessary else blocks
+
+Make the code more readable and robust
